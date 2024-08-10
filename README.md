@@ -1,6 +1,6 @@
 [![MasterHead](https://www.vackergroup.ae/wp-content/uploads/2016/04/Iot-cover-image.gif)](https://www.youtube.com/@PythonProjecTutorial)
 <h1 align="center">Hi 👋, I'm Ata Amrullah</h1>
-<h3 align="center">A lecturer, passionate frontend developer, data analytics, machine learning, AI, and IoT enthusiast from Indonesia</h3>
+<h3 align="center">A lecturer, researcher, data analytics, AI, IoT, and cyber security enthusiast from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataislucky&label=Profile%20views&color=0e75b6&style=flat" alt="ataislucky" /> </p>
