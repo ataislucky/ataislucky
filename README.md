@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Cyber Security, AI**
 
-- 💬 Ask me about **android, MEARN**
+- 💬 Ask me about **IoT, Machine Learning**
 
 - 📫 How to reach me **ataislucky@gmail.com**
 
