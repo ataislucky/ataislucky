@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*NlCFLqPGsHsj1xMVYE_1cA.gif)](https://www.youtube.com/@PythonProjecTutorial)
+[![MasterHead](https://www.vackergroup.ae/wp-content/uploads/2016/04/Iot-cover-image.gif)](https://www.youtube.com/@PythonProjecTutorial)
 <h1 align="center">Hi 👋, I'm Ata Amrullah</h1>
 <h3 align="center">A lecturer, passionate frontend developer, data analytics, machine learning, AI, and IoT enthusiast from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
